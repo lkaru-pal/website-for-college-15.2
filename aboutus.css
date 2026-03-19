@@ -1,0 +1,106 @@
+
+/* 
+/* adjusts the display of the menubar, changing the background colour, display and text colour  */
+/* .menubar-top ul{
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: 45px;
+    background-color: #000;
+    color: white;
+} */
+/* 
+Used to manipulate individual menubar sections, adding padding to give spacing  */
+
+/* 
+.ot {
+    font-size: 200%;
+    padding-right: 50px ;
+} */
+
+
+/* .to {
+    font-size: 200%;
+    padding-right: 50px ;
+} */
+
+
+/* .cu {
+    font-size: 200%;
+    padding-right: 50px ;
+/* } */ 
+
+.menubar-top ul li {
+    text-decoration: none;
+    display: inline;
+    margin-right: 50px;
+    padding: 0px;
+    height: 45px; 
+
+}
+
+.menubar-top ul {
+    background-color: #000;
+    color: white;
+}
+
+.au {
+    font-size: 200%;
+    padding-right: 50px ;
+    padding-left: 50px ;
+}
+
+
+.ot {
+    font-size: 200%;
+    padding-right: 50px ;
+
+}
+
+
+.to {
+    font-size: 200%;
+    padding-right: 50px ;
+
+}
+
+
+.cu {
+    font-size: 200%;
+    padding-right: 50px ;
+
+}
+
+.menubar-top a:link, a:visited {
+    text-decoration: none;
+    color:rgb(243, 243, 243);
+}
+
+.menubar-top a:hover {
+    /* font-size: 300%; */
+    color:rgb(194, 194, 194);
+    font-size: 120%;
+}
+
+img{
+    width: 300px;
+    padding-left: 40px;
+    padding-top: 18px;
+    padding-right: 40px;
+
+}
+
+#toparea img{
+    width: 300px;
+    padding-left: 40px;
+    padding-top: 18px;
+    padding-bottom: 40px;
+}
+
+#toparea .toptext {
+    color: whitesmoke;
+    margin: 0px;
+    padding-left: 400px;
+    font-size: 400%;
+}
